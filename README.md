@@ -22,7 +22,7 @@ The player has to open the file 'project.html' in a HTML 5 compatible
 web browser. 
 
 Using the arrow keys the player controls the hero.
-If the player is caught by the devil, a 'GAME OVER'
+If the player is caught by the White devil, a 'GAME OVER'
 signs shows up indicating the end of the game.
 
 The player can start a new session by clicking in the text:
